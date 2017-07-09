@@ -1,10 +1,7 @@
 name: Mr_Love
 main: xyz.mrsky.mr_love.Mr_Love
-version: "1.0.2"
+version: "1.1.0"
 api: ["1.0.0"]
 load: POSTWORLD
 author: Mr_sky
 description: 结婚插件
-commands:
-  love:
-    description: Mr_Love主命令
